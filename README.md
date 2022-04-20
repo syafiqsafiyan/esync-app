@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## How To Install
+## How To Install (Terminal)
 
 CLI : cp .env.example .env
 CLI : php artisan key:generate
